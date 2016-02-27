@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A design fiction intervention
-datePublished: '2016-02-27T19:25:30.257Z'
-dateModified: '2016-02-27T19:25:02.671Z'
+datePublished: '2016-02-27T19:41:40.040Z'
+dateModified: '2016-02-27T19:37:18.219Z'
 author:
   - name: Joel Krieger
     url: 'http://vimeo.com/user545495'

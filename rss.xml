@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Break the path, excite new thinking.]]></title>
         <description><![CDATA[Break the path, excite new thinking.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/goat-farm-arts-center/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 18:17:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 18:29:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/goat-farm-arts-center/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet a blacksmith: Mark Hopper]]></title>
+            <description><![CDATA[<article><h1>Meet a blacksmith: Mark Hopper</h1><p>Mark Hopper: I grew up making things. My grandfather was a cabinet maker, so every summer we'd hang out in his woodshed: painting, playing with charcoals and pastels. I eventually got into woodwork and wanted to make the metal components that went into it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b83b417cf7f1e02da041365d8274cbf856151f22.jpg"></article>]]></description>
+            <link>http://projectwoodchips.com/blog/2016/2/23/meet-a-blacksmith-mark-hopper</link>
+            <guid isPermaLink="false">a10137a8-75b3-4fbd-b047-53c87234ce00</guid>
+            <pubDate>Sat, 27 Feb 2016 18:29:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>when u at work and the boss catches u browsing cat photos on google images -- Streetcat Media</p>]]></description>

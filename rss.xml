@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Break the path, excite new thinking.]]></title>
+        <description><![CDATA[Break the path, excite new thinking.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Feb 2016 18:17:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>when u at work and the boss catches u browsing cat photos on google images -- Streetcat Media</p>]]></description>
+            <link>https://www.facebook.com/photo.php?fbid=1223517037676081&amp;set=a.124948374199625.17112.100000533881218&amp;type=3&amp;theater</link>
+            <guid isPermaLink="false">4c40b7b2-592a-46b4-9878-c93948e36b6c</guid>
+            <pubDate>Sat, 27 Feb 2016 18:17:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,6 +1,6 @@
 name: Goat Farm Arts Center
 favicon: null
-layout_spectrum: 0.14580161683261395
+layout_spectrum: 1
 typography_spectrum: 0.3132057769689709
 title: 'Break the path, excite new thinking.'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#888f66'
     - '#c5a666'
     - '#986e4a'
-  brandStrength: 0.5
+  brandStrength: 0.375
   lightness: 0.8064135930035263
   saturation: 0
   rhythmicContrast: 0.7154433003161103

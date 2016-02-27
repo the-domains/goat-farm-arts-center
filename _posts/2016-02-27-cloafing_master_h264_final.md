@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is "CLoafing_MASTER_H264_FINAL" by on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-02-27T19:17:26.993Z'
-dateModified: '2016-02-27T19:14:43.515Z'
+datePublished: '2016-02-27T19:19:52.953Z'
+dateModified: '2016-02-27T19:18:14.368Z'
 author:
   - name: Joel Krieger
     url: 'http://vimeo.com/user545495'
@@ -42,19 +42,19 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: CLoafing_MASTER_H264_FINAL
+sourcePath: _posts/2016-02-27-cloafing_master_h264_final.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-02-27-cloafing_master_h264_final.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-[Second Story][0]was commissioned by Goat Farm to envision the future last September at the CL Block Party in[South Downtown][1].
+[Second Story][0] was commissioned by Goat Farm to envision the future last September at the CL Block Party in[South Downtown][1].
 
 A world.. where facial recognition tech becomes omniscient. Every fiber of your being is measured and evaluated.[South Broad][2]became a neutral zone where you could get your stats wiped and lead a semi-private existence, one night only.
 

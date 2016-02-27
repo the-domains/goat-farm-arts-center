@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://vimeo.com/153292548'
 inLanguage: null
 starred: false
 keywords: []
-description: 'This is "CLoafing_MASTER_H264_FINAL" by on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-02-27T19:19:52.953Z'
-dateModified: '2016-02-27T19:18:14.368Z'
+description: A design fiction intervention
+datePublished: '2016-02-27T19:25:30.257Z'
+dateModified: '2016-02-27T19:25:02.671Z'
 author:
   - name: Joel Krieger
     url: 'http://vimeo.com/user545495'
@@ -41,7 +41,7 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-title: CLoafing_MASTER_H264_FINAL
+title: 'If we could see signs from our future world, what would they tell us about us. '
 sourcePath: _posts/2016-02-27-cloafing_master_h264_final.md
 published: true
 authors: []

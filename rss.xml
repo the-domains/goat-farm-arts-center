@@ -4,7 +4,7 @@
         <description><![CDATA[Break the path, excite new thinking.]]></description>
         <link>https://thegrid.ai/goat-farm-arts-center/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 00:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 00:50:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/goat-farm-arts-center/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://clatl.com/atlanta/goat-farm-economics/Content?oid=16077178&amp;showFullText=true</link>
             <guid isPermaLink="false">9731b727-231d-4400-b165-a85fb7b8f28b</guid>
             <pubDate>Sat, 27 Feb 2016 19:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the Grid | South Downtown]]></title>
+            <description><![CDATA[<article><h1>On the Grid | South Downtown</h1><p>Curated by The Goat Farm Arts Center</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a39edfbfe9c8c6600d66eb2d45d1c0f3574a6890.png"></article>]]></description>
+            <link>http://www.onthegrid.city/atlanta/south-downtown/</link>
+            <guid isPermaLink="false">c69f5824-e2a5-4232-912a-da1725487f83</guid>
+            <pubDate>Sun, 28 Feb 2016 00:49:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wherefore Art Thou ATL? A Year in Review | Immersive Atlanta]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=NX8y9T1MaP4</link>
             <guid isPermaLink="false">9e4282f2-868e-4722-8d60-a298f503134a</guid>
             <pubDate>Sun, 28 Feb 2016 00:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: 'Art AIDS America' at Zuckerman Museum of Art]]></title>
-            <description><![CDATA[<article><h1>Review: 'Art AIDS America' at Zuckerman Museum of Art</h1><p>It can be easy to forget how devastating AIDS was in the American consciousness, with fresh political and social issues jockeying for our attention daily. Artists were especially vocal about AIDS, many of them suffering from the disease, contending with the loss of family and friends or living in city centers like Los Angeles and New York where creative communities were hard hit by HIV.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e1eda3c7fe9f51d95bf843d2242e7bc8a589d4f.jpg"></article>]]></description>
-            <link>http://www.myajc.com/news/entertainment/arts-theater/review-powerful-zuckerman-survey-show-tackles-aids/nqWmr/</link>
-            <guid isPermaLink="false">6bc4ec65-966f-43ed-9d7f-1f1f9feebf34</guid>
-            <pubDate>Sat, 27 Feb 2016 22:41:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

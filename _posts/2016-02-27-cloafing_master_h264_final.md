@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A design fiction intervention
-datePublished: '2016-02-27T19:41:40.040Z'
-dateModified: '2016-02-27T19:37:18.219Z'
+datePublished: '2016-02-28T00:11:14.640Z'
+dateModified: '2016-02-28T00:11:00.994Z'
 author:
   - name: Joel Krieger
     url: 'http://vimeo.com/user545495'
@@ -54,11 +54,9 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-[Second Story][0] was commissioned by Goat Farm to envision the future last September at the CL Block Party in[South Downtown][1].
+[Second Story][0] was commissioned by Goat Farm to envision the future of [South Downtown][1].
 
-A world.. where facial recognition tech becomes omniscient. Every fiber of your being is measured and evaluated.[South Broad][2]became a neutral zone where you could get your stats wiped and lead a semi-private existence, one night only.
-
-It was fun, check it out. Video via Second Story.
+A world.. where facial recognition tech becomes omniscient. Every fiber of your being is measured and evaluated.[South Broad][2] became a neutral zone where you could get your stats wiped and lead a semi-private existence, one night only.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F153292548&amp;url=https%3A%2F%2Fvimeo.com%2F153292548&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F553536138_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
